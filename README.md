@@ -1,1 +1,1 @@
-# rbs
+# Minimum size ultrametric tree
