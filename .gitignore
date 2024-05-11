@@ -1,3 +1,12 @@
 .gitignore
 .ipynb_checkpoints/bruteForce-checkpoint.ipynb
 results/.ipynb_checkpoints/bruteForce-checkpoint.txt
+.ipynb_checkpoints/MST-checkpoint.ipynb
+results/.ipynb_checkpoints/mst-checkpoint.txt
+tests/.ipynb_checkpoints/mst1-checkpoint.txt
+tests/.ipynb_checkpoints/mst2-checkpoint.txt
+tests/.ipynb_checkpoints/mst3-checkpoint.txt
+tests/.ipynb_checkpoints/mst4-checkpoint.txt
+tests/.ipynb_checkpoints/mst5-checkpoint.txt
+tests/.ipynb_checkpoints/mst6-checkpoint.txt
+tests/.ipynb_checkpoints/mst7-checkpoint.txt
