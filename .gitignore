@@ -1,1 +1,3 @@
-.ipynb_checkpoints
+.gitignore
+.ipynb_checkpoints/bruteForce-checkpoint.ipynb
+results/.ipynb_checkpoints/bruteForce-checkpoint.txt
