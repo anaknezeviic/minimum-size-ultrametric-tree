@@ -18,3 +18,14 @@ MEASURE: The size of the tree, i.e., $\sum_{e \in E} w(e)$ where w(e) denotes th
 
 **4. Simulated Annealing:** Finding approximate solutions to combinatorial optimization problems involving iteratively exploring the solution space by making random changes to a current solution.
 
+## Usage
+1. Clone repository.
+   
+2. Install the required dependencies.
+ 
+3. Run the desired optimization technique.
+
+## Contributing
+Ana Knezevic - @anaknezeviic
+
+Pavle Ponjavic - @pavlee12
