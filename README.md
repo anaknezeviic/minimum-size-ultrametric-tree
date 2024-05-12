@@ -26,6 +26,7 @@ MEASURE: The size of the tree, i.e., $\sum_{e \in E} w(e)$ where w(e) denotes th
 3. Run the desired optimization technique.
 
 ## Contributing
-Ana Knezevic - @anaknezeviic
+[Ana Knezevic](https://github.com/anaknezeviic)
 
-Pavle Ponjavic - @pavlee12
+[Pavle Ponjavic](https://github.com/pavlee12)
+
