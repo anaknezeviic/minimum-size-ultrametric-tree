@@ -1,0 +1,77 @@
+Processing hc1.txt...
+Final Cost for hc1.txt: 121
+Time taken: 0.78 seconds
+
+Processing hc2.txt...
+Final Cost for hc2.txt: 121
+Time taken: 0.76 seconds
+
+Processing hc3.txt...
+Final Cost for hc3.txt: 116
+Time taken: 1.60 seconds
+
+Processing hc4.txt...
+Final Cost for hc4.txt: 138
+Time taken: 2.33 seconds
+
+Processing matrix1.txt...
+Final Cost for matrix1.txt: 3
+Time taken: 0.14 seconds
+
+Processing matrix2.txt...
+Final Cost for matrix2.txt: 6
+Time taken: 0.09 seconds
+
+Processing matrix3.txt...
+Final Cost for matrix3.txt: 6
+Time taken: 0.06 seconds
+
+Processing matrix4.txt...
+Final Cost for matrix4.txt: 4
+Time taken: 0.07 seconds
+
+Processing matrix5.txt...
+Final Cost for matrix5.txt: 40
+Time taken: 0.14 seconds
+
+Processing matrix6.txt...
+Final Cost for matrix6.txt: 10
+Time taken: 0.07 seconds
+
+Processing matrix7.txt...
+Final Cost for matrix7.txt: 4
+Time taken: 0.05 seconds
+
+Processing matrix8.txt...
+Final Cost for matrix8.txt: 65
+Time taken: 0.17 seconds
+
+Processing mst1.txt...
+Final Cost for mst1.txt: 27
+Time taken: 0.13 seconds
+
+Processing mst2.txt...
+Final Cost for mst2.txt: 108
+Time taken: 0.44 seconds
+
+Processing mst3.txt...
+Final Cost for mst3.txt: 53
+Time taken: 0.13 seconds
+
+Processing mst4.txt...
+Final Cost for mst4.txt: 74
+Time taken: 0.36 seconds
+
+Processing mst5.txt...
+Final Cost for mst5.txt: 72
+Time taken: 0.41 seconds
+
+Processing mst6.txt...
+Final Cost for mst6.txt: 101
+Time taken: 0.40 seconds
+
+Processing mst7.txt...
+Final Cost for mst7.txt: 121
+Time taken: 0.96 seconds
+
+
