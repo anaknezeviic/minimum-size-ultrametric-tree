@@ -12,11 +12,13 @@ MEASURE: The size of the tree, i.e., $\sum_{e \in E} w(e)$ where w(e) denotes th
 ## Optimization Techniques
 **1. Brute force:** Exhaustive search algorithm evaluating all possible solutions.
 
-**2. Hierarchical Clustering:** 1. single linkage clustering method, 2. union find data structure. 
+**2. Hierarchical Clustering:** Single linkage clustering method.
 
 **3. The Minimum Spanning Tree (MST):** Algorithm finds the minimum-weight tree that spans all nodes in a connected, undirected graph.
 
 **4. Simulated Annealing:** Finding approximate solutions to combinatorial optimization problems involving iteratively exploring the solution space by making random changes to a current solution.
+
+**5. Union Find Data Structures:** The procedure itself involves sorting and branch selection using an approach similar to Kruskal's minimum spanning tree algortihm.
 
 ## Usage
 1. Clone repository.
