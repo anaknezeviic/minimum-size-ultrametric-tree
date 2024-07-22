@@ -1,36 +1,72 @@
-Processing matrix1.txt...
-Minimum size: 3
-Time needed: 0.0015492439270019531
-
-Processing matrix2.txt...
-Minimum size: 6
-Time needed: 0.001996755599975586
-
-Processing matrix3.txt...
-Minimum size: 6
-Time needed: 0.013263225555419922
-
-Processing matrix4.txt...
-Minimum size: 4
-Time needed: 0.022836685180664062
-
-Processing matrix5.txt...
-Minimum size: 40
-Time needed: 0.0226593017578125
-
-Processing matrix6.txt...
-Minimum size: 10
-Time needed: 0.01115870475769043
-
-Processing matrix7.txt...
-Minimum size: 4
-Time needed: 0.011295080184936523
-
-Processing matrix8.txt...
-Minimum size: 65
-Time needed: 0.02224588394165039
-
-Processing mst1.txt...
-Minimum size: 27
-Time needed: 1463.0196132659912
-
+Processing matrix from file: matrix3.txt
+[[0.  0.  0.  0.  3.5 0.  0. ]
+ [0.  0.  0.  0.  3.5 0.  0. ]
+ [0.  0.  0.  0.  3.5 0.  0. ]
+ [0.  0.  0.  0.  3.5 0.  0. ]
+ [3.5 3.5 3.5 3.5 0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.  0. ]]
+Weight of the optimal tree: 14.0
+Processing matrix from file: matrix8.txt
+[[ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+ [10. 10. 10. 10. 10.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Weight of the optimal tree: 50.0
+Processing matrix from file: matrix5.txt
+[[0. 0. 0. 0. 0. 5. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 5. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 5. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 5. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 5. 0. 0. 0.]
+ [5. 5. 5. 5. 5. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+Weight of the optimal tree: 25.0
+Processing matrix from file: matrix6.txt
+[[0. 0. 0. 5. 0.]
+ [0. 0. 0. 5. 0.]
+ [0. 0. 0. 5. 0.]
+ [5. 5. 5. 0. 0.]
+ [0. 0. 0. 0. 0.]]
+Weight of the optimal tree: 15.0
+Processing matrix from file: matrix1.txt
+[[0.  0.  0.  1.5 0. ]
+ [0.  0.  0.  1.5 0. ]
+ [0.  0.  0.  1.5 0. ]
+ [1.5 1.5 1.5 0.  0. ]
+ [0.  0.  0.  0.  0. ]]
+Weight of the optimal tree: 4.5
+Processing matrix from file: matrix2.txt
+[[0. 0. 0. 0. 1. 0. 0.]
+ [0. 0. 0. 0. 1. 0. 0.]
+ [0. 0. 0. 0. 1. 0. 0.]
+ [0. 0. 0. 0. 1. 0. 0.]
+ [1. 1. 1. 1. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0.]]
+Weight of the optimal tree: 4.0
+Processing matrix from file: matrix4.txt
+[[0.  0.  0.  0.  0.  0.5 0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.5 0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.5 0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.5 0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.5 0.  0.  0. ]
+ [0.5 0.5 0.5 0.5 0.5 0.  0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.  0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.  0.  0.  0. ]
+ [0.  0.  0.  0.  0.  0.  0.  0.  0. ]]
+Weight of the optimal tree: 2.5
+Processing matrix from file: matrix7.txt
+[[0. 0. 0. 1. 0.]
+ [0. 0. 0. 1. 0.]
+ [0. 0. 0. 1. 0.]
+ [1. 1. 1. 0. 0.]
+ [0. 0. 0. 0. 0.]]
+Weight of the optimal tree: 3.0

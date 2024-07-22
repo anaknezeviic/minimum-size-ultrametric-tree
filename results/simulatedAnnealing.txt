@@ -1,77 +1,113 @@
-Processing hc1.txt...
-Final Cost for hc1.txt: 121
-Time taken: 0.78 seconds
-
-Processing hc2.txt...
-Final Cost for hc2.txt: 121
-Time taken: 0.76 seconds
-
-Processing hc3.txt...
-Final Cost for hc3.txt: 116
-Time taken: 1.60 seconds
-
-Processing hc4.txt...
-Final Cost for hc4.txt: 138
-Time taken: 2.33 seconds
-
-Processing matrix1.txt...
-Final Cost for matrix1.txt: 3
-Time taken: 0.14 seconds
-
-Processing matrix2.txt...
-Final Cost for matrix2.txt: 6
-Time taken: 0.09 seconds
-
-Processing matrix3.txt...
-Final Cost for matrix3.txt: 6
-Time taken: 0.06 seconds
-
-Processing matrix4.txt...
-Final Cost for matrix4.txt: 4
-Time taken: 0.07 seconds
-
-Processing matrix5.txt...
-Final Cost for matrix5.txt: 40
-Time taken: 0.14 seconds
-
-Processing matrix6.txt...
-Final Cost for matrix6.txt: 10
-Time taken: 0.07 seconds
-
-Processing matrix7.txt...
-Final Cost for matrix7.txt: 4
-Time taken: 0.05 seconds
-
-Processing matrix8.txt...
-Final Cost for matrix8.txt: 65
-Time taken: 0.17 seconds
-
-Processing mst1.txt...
-Final Cost for mst1.txt: 27
-Time taken: 0.13 seconds
-
-Processing mst2.txt...
-Final Cost for mst2.txt: 108
-Time taken: 0.44 seconds
-
-Processing mst3.txt...
-Final Cost for mst3.txt: 53
-Time taken: 0.13 seconds
-
-Processing mst4.txt...
-Final Cost for mst4.txt: 74
-Time taken: 0.36 seconds
-
-Processing mst5.txt...
-Final Cost for mst5.txt: 72
-Time taken: 0.41 seconds
-
-Processing mst6.txt...
-Final Cost for mst6.txt: 101
-Time taken: 0.40 seconds
-
-Processing mst7.txt...
-Final Cost for mst7.txt: 121
-Time taken: 0.96 seconds
-
-
+Processing matrix from file: matrix3.txt
+[[0.         0.80180851 0.         0.54000693 0.         0.
+  0.        ]
+ [0.80180851 0.         0.55848612 0.         0.         0.
+  0.        ]
+ [0.         0.55848612 0.         0.54754935 0.         0.
+  0.        ]
+ [0.54000693 0.         0.54754935 0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]]
+Weight of the optimal tree: 2.4478509119481493
+Processing matrix from file: matrix8.txt
+[[0.         0.9668562  0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.9668562  0.         1.4585093  0.         0.         0.
+  0.         0.         0.        ]
+ [0.         1.4585093  0.         0.92997162 0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.92997162 0.         0.65777671 0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.65777671 0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]]
+Weight of the optimal tree: 4.013113828394452
+Processing matrix from file: matrix5.txt
+[[0.         1.09702596 0.         0.         0.         0.
+  0.         0.         0.        ]
+ [1.09702596 0.         1.10811752 0.         0.         0.
+  0.         0.         0.        ]
+ [0.         1.10811752 0.         0.60961553 0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.60961553 0.         1.37510794 0.
+  0.         0.         0.        ]
+ [0.         0.         0.         1.37510794 0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]]
+Weight of the optimal tree: 4.189866944801895
+Processing matrix from file: matrix6.txt
+[[0.         0.50245146 0.         0.         0.        ]
+ [0.50245146 0.         0.53745103 0.         0.        ]
+ [0.         0.53745103 0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]]
+Weight of the optimal tree: 1.0399024933681185
+Processing matrix from file: matrix1.txt
+[[0.         0.50000048 0.         0.         0.        ]
+ [0.50000048 0.         0.50017405 0.         0.        ]
+ [0.         0.50017405 0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]]
+Weight of the optimal tree: 1.0001745230955503
+Processing matrix from file: matrix2.txt
+[[0.         0.58938114 0.         0.         0.         0.
+  0.        ]
+ [0.58938114 0.         0.68581046 0.58096883 0.         0.
+  0.        ]
+ [0.         0.68581046 0.         0.5286022  0.         0.
+  0.        ]
+ [0.         0.58096883 0.5286022  0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.        ]]
+Weight of the optimal tree: 2.384762631341385
+Processing matrix from file: matrix4.txt
+[[0.         0.62838616 0.         0.59712561 0.         0.
+  0.         0.         0.        ]
+ [0.62838616 0.         0.97478954 0.53495613 0.         0.
+  0.         0.         0.        ]
+ [0.         0.97478954 0.         0.57642831 0.73578708 0.
+  0.         0.         0.        ]
+ [0.59712561 0.53495613 0.57642831 0.         0.55028656 0.
+  0.         0.         0.        ]
+ [0.         0.         0.73578708 0.55028656 0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]]
+Weight of the optimal tree: 4.597759398821879
+Processing matrix from file: matrix7.txt
+[[0.         0.52240555 0.         0.         0.        ]
+ [0.52240555 0.         0.50856266 0.         0.        ]
+ [0.         0.50856266 0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]
+ [0.         0.         0.         0.         0.        ]]
+Weight of the optimal tree: 1.030968211142595
